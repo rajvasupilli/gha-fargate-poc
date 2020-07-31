@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\gha-fargate-poc_2.13-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\conf\application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\conf\logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	messages[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\conf\messages[0m
+[0m[[0m[0mdebug[0m] [0m[0m	routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\conf\routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers\HomeController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\app\controllers\HomeController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

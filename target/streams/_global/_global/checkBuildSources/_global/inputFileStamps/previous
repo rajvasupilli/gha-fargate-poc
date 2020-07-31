@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/root/gha-fargate-poc/build.sbt","963051aba17b0b8cff937082fa485824c8b89676"],["/root/gha-fargate-poc/project/plugins.sbt","1d0e82a3560d11b9a582ebb5caddc54bee90c4aa"]],"lastModifiedTimes":[]}]

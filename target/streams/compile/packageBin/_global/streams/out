@@ -1,0 +1,63 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\gha-fargate-poc_2.13-1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\controllers[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers\HomeController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\controllers\HomeController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers\javascript[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\controllers\javascript[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers\javascript\ReverseAssets.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\controllers\javascript\ReverseAssets.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers\javascript\ReverseHomeController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\controllers\javascript\ReverseHomeController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers\ReverseAssets.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\controllers\ReverseAssets.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers\ReverseHomeController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\controllers\ReverseHomeController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers\routes$javascript.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\controllers\routes$javascript.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers\routes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\controllers\routes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	messages[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\messages[0m
+[0m[[0m[0mdebug[0m] [0m[0m	router[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\router[0m
+[0m[[0m[0mdebug[0m] [0m[0m	router\Routes$$anonfun$routes$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\router\Routes$$anonfun$routes$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	router\Routes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\router\Routes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	router\RoutesPrefix$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\router\RoutesPrefix$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	router\RoutesPrefix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\router\RoutesPrefix.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	views[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\views[0m
+[0m[[0m[0mdebug[0m] [0m[0m	views\html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\views\html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	views\html\index$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\views\html\index$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	views\html\index.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\views\html\index.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	views\html\main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\views\html\main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	views\html\main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes\views\html\main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF\resources\webjars\gha-fargate-poc\1.0-SNAPSHOT\stylesheets\main.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\public\stylesheets\main.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF\resources\webjars\gha-fargate-poc\1.0-SNAPSHOT\javascripts\main.js[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\public\javascripts\main.js[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF\resources\webjars\gha-fargate-poc\1.0-SNAPSHOT\images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\public\images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF\resources\webjars\gha-fargate-poc\1.0-SNAPSHOT\images\favicon.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\public\images\favicon.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF\resources\webjars\gha-fargate-poc\1.0-SNAPSHOT\javascripts[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\public\javascripts[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF\resources\webjars\gha-fargate-poc\1.0-SNAPSHOT\stylesheets[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\public\stylesheets[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

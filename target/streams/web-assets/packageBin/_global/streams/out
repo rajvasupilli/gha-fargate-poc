@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\gha-fargate-poc_2.13-1.0-SNAPSHOT-web-assets.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/stylesheets\main.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\public\stylesheets\main.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/javascripts\main.js[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\public\javascripts\main.js[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\public\images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/images\favicon.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\public\images\favicon.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/javascripts[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\public\javascripts[0m
+[0m[[0m[0mdebug[0m] [0m[0m	public/stylesheets[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\public\stylesheets[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
